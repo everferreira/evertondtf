@@ -40,5 +40,4 @@ Me apaixonei pelo computador ainda quando criança, hoje dedico meu tempo estuda
 
 ## Meus dados no Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertondtf&show_icons=true&theme=tokyonight)
-<--[![evertondtf](https://github-readme-stats.vercel.app/api/top-langs/?username=evertondtf&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/evertondtf/) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertondtf&layout=compact&theme=tokyonight)
