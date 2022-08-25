@@ -6,7 +6,7 @@ Olá, eu sou a Ever! 🇧🇷
 </h3>
 
 ```
-Estudante de Ciência da Computação pela Estácio. 
+Estudante de Ciência da Computação pela Estácio, Instrutora de programação e com foco em FullStack. 
 Me apaixonei pelo computador ainda quando criança, hoje dedico meu tempo estudando e ensinando programação para crianças.
 ```
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
