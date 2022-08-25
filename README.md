@@ -33,9 +33,9 @@ Me apaixonei pelo computador ainda quando criança, hoje dedico meu tempo estuda
 ## Alguns fatos sobre mim 👨🏻‍💻
 
 - Ensino programação de jogos para crianças,
-- 
+
 - Tive meu primeiro computador aos 6 anos de idade e sou apaixonada tecnologia,
-- 
+
 - Estou cursando Ciência da Computação. 💻
 
 ## Meus dados no Github
