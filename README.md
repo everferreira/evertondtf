@@ -19,7 +19,7 @@ Me apaixonei pelo computador ainda quando criança, hoje dedico meu tempo estuda
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/evertondtf)](https://open.spotify.com/user/12174838468?si=ce7586d0e6a340af)
 </h4>
 
-## Tecnologias que estou estudando atualmente 💻
+## Tecnologias que estou estudando 💻
 
   - HTML
   - JavaScript
