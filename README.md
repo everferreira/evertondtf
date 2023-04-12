@@ -35,6 +35,3 @@ Me apaixonei pelo computador ainda quando criança, hoje dedico meu tempo estuda
 
 - Estou cursando Ciência da Computação. 💻
 
-## Meus dados no Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertondtf&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertondtf&layout=compact&theme=tokyonight)
