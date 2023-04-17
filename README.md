@@ -25,7 +25,7 @@ Me apaixonei pelo computador ainda quando criança, hoje dedico meu tempo estuda
   - JavaScript
   - CSS
   - Python
-  - MySQL
+  - GO
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
